@@ -8,6 +8,9 @@ This dataset is about the Indian Premier League (IPL) cricket tournament until t
 Data cleaning for this analysis includes renaming the columns in both datasets, merging the two datasets, removing/manipulating null values, deleting a few columns that were not required for the analysis, and renaming some values in a few columns that were incorrectly named.
 
 # Team Performance Analysis
-With this analysis, I have tried to understand how the teams performed over the 10 years. The number of matches they played and the number of matches won out of those. This type of analysis and visualization help us understand the success pattern of teams and can be used in fantasy gaming platforms to make deductions on which team will be winning against which teams.
+With this analysis, I have tried to understand how the teams performed over the 10 years. For this, the entire data set was sliced into only the part that was required for the analysis. The number of matches they played and the number of matches won out of those. This type of analysis and visualization help us understand the success pattern of teams and can be used in fantasy gaming platforms to make deductions on which team will be winning against which teams. Here, the analysis is done based on the wins of a team based on runs, the wins of a team based on wickets, and the total win percentage of every team. 
 
+# Toss Analysis
+In a game like cricket, teams have been assumed to be winning matches based on what they choose when they win the toss. In this analysis, I have tried to figure out whether this assumption is a fact or not. 
 
+# Venue Analysis
