@@ -14,3 +14,8 @@ With this analysis, I have tried to understand how the teams performed over the 
 In a game like cricket, teams have been assumed to be winning matches based on what they choose when they win the toss. In this analysis, I have tried to figure out whether this assumption is a fact or not. 
 
 # Venue Analysis
+In this analysis, I have tried to understand whether the venue affects the winning of the teams or not, what the 10 most famous and 10 least famous venues and whether the winning team wins by runs or by wickets.
+
+# Player Performance Analysis
+Here, I have analyzed the best players of the matches and noticed that they have mostly been from the winning team. Additionally, the best captains under whose captaincy the teams have won matches, the win percentage of each captain who has played more than 5 matches as captains, the age distribution of players, and age distribution by player roles.
+
